@@ -1,0 +1,10 @@
+1: create database ->Import importdb.sql file .
+2: change Database and url details in .env file .
+3: Acess Your Site 
+
+**Admin Login**
+admin@demo.com
+admin
+
+
+#RememberTheName #Ghostriderrr
